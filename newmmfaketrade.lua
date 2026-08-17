@@ -853,7 +853,7 @@ end)
 
 local statusText = Instance.new("TextLabel")
 statusText.Size = UDim2.new(0,40,1,0); statusText.Position = UDim2.new(0,12,0,0)
-statusText.BackgroundTransparency = 1; statusText.Text = "v7"
+statusText.BackgroundTransparency = 1; statusText.Text = "v8"
 statusText.Font = Enum.Font.FredokaOne; statusText.TextSize = 10
 statusText.TextColor3 = Color3.fromRGB(180, 80, 120)
 statusText.TextXAlignment = Enum.TextXAlignment.Right; statusText.Parent = statusFrame
